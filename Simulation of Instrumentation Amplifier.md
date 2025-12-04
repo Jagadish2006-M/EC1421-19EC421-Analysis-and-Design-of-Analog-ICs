@@ -20,18 +20,13 @@ time delay stop time value.
 obtained.
 
 ## CIRCUIT DIAGRAM:
-![Simulation of Instrumentation Amplifier LHS](https://github.com/user-attachments/assets/cf45255e-a998-4771-b8b4-4b23763b4dfa)
+<img width="1046" height="275" alt="Screenshot 2025-12-04 230634" src="https://github.com/user-attachments/assets/4f002fdd-14ee-4700-b8b8-9de89bcd7c21" />
 
 
 
 ## OUTPUT GRAPH:
-![Simulation of Instrumentation Amplifier LHS](https://github.com/user-attachments/assets/2aba90fa-680e-4666-a539-00a5fe37c04b)
+<img width="1005" height="329" alt="Screenshot 2025-12-04 230704" src="https://github.com/user-attachments/assets/cb36a428-2845-425c-95ee-e465910d6cb7" />
 
 
 ## RESULT:
-![Simulation of Instrumentation Amplifier RHS 1](https://github.com/user-attachments/assets/ac6fe235-b141-44bb-a182-ebaf17abc79d)
-
- ![Simulation of Instrumentation Amplifier RHS 2](https://github.com/user-attachments/assets/fba96bd1-a1e6-4f97-8705-950cedbcc54f)
-
-
 Thus the LT-SPICE tool has been studied and Instrumentation amplifier circuit is simulated. 
