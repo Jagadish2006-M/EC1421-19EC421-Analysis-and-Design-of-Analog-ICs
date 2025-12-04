@@ -1,4 +1,4 @@
-## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+<img width="953" height="320" alt="Screenshot 2025-12-04 231327" src="https://github.com/user-attachments/assets/4eb4adaa-7f67-4320-ad52-f2560632a9ff" />## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## SIMULATION OF INVERTING, NON-INVERTING AND DIFFERENTIAL AMPLIFIER
 ## AIM:
 To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice.
@@ -17,29 +17,29 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### INVERTING AMPLIFIER:
-![Inverting LHS](https://github.com/user-attachments/assets/443d609b-a49b-487c-aef5-96a4a709113c)
+<img width="966" height="226" alt="Screenshot 2025-12-04 231053" src="https://github.com/user-attachments/assets/03cb4a79-cb7a-47b1-b152-648056937fea" />
 
 
 ### NON-INVERTING AMPLIFIER:
-![Non Inverting LHS](https://github.com/user-attachments/assets/a690e3e9-4ee6-470e-a901-4452a8c4bbce)
+<img width="955" height="276" alt="Screenshot 2025-12-04 231342" src="https://github.com/user-attachments/assets/69d4c25a-54b4-45c8-8700-14ddf44e95fe" />
 
 
 ### DIFFERENTIAL AMPLIFIER:
-![Differential LHS](https://github.com/user-attachments/assets/341d6513-dc6e-4387-a1e1-417d5d53ee7e)
+<img width="816" height="250" alt="Screenshot 2025-12-04 231207" src="https://github.com/user-attachments/assets/c5d94b18-dfb5-4cbd-9b47-cce6b8121fad" />
 
 
 
 ## OUTPUT GRAPH:
 ### INVERTING AMPLIFIER:
-![Inverting LHS](https://github.com/user-attachments/assets/eb3665ee-c27f-42cb-937b-a6436208b8bb)
+<img width="972" height="272" alt="Screenshot 2025-12-04 231041" src="https://github.com/user-attachments/assets/fe695f9f-fb81-4e53-8dc5-185275063fdb" />
 
 
 ### NON-INVERTING AMPLIFIER:
-![Non Inverting LHS](https://github.com/user-attachments/assets/bd445203-5226-4531-8e37-98991e8da776)
+<img width="953" height="320" alt="Screenshot 2025-12-04 231327" src="https://github.com/user-attachments/assets/05c73740-907d-42da-8615-67f0a6dadb58" />
 
 
 ### DIFFERENTIAL AMPLIFIER:
-![Differential LHS](https://github.com/user-attachments/assets/7ce4024a-d1ec-4224-916f-4a09f9824010)
+<img width="965" height="290" alt="Screenshot 2025-12-04 231155" src="https://github.com/user-attachments/assets/753c4a96-cbec-4902-a1bc-4b09ddd40737" />
 
 
 ## RESULT:
