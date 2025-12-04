@@ -42,9 +42,4 @@ LT-Spice
 
 
 ## RESULT:
-![Inverting RHS 1](https://github.com/user-attachments/assets/b2a59387-c339-49d8-8acb-cdf7890ce949)
-
-![Inverting RHS 2](https://github.com/user-attachments/assets/85a542af-fe6e-4032-86fe-b5ad67f00017)
-
-
 Thus the LT-SPICE tool has been studied and inverting, non- inverting and differential amplifiers circuit is simulated.
