@@ -28,12 +28,12 @@ LT-Spice
 
 
 ### HIGHPASS FILTER CIRCUIT DIAGRAM:
-![HIGH PASS FILTER LHS](https://github.com/user-attachments/assets/52d56867-8bfa-4270-843d-55927fbfbd99)
+<img width="881" height="277" alt="Screenshot 2025-12-04 231934" src="https://github.com/user-attachments/assets/2dec2cc1-39f6-47be-88b6-72946138405e" />
 
 
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
-![BAND PASS FILTER LHS](https://github.com/user-attachments/assets/d5ca9fd0-9d65-430e-a50d-10ba50a0a442)
+<img width="889" height="338" alt="Screenshot 2025-12-04 232101" src="https://github.com/user-attachments/assets/fc38fcee-4dc3-4c20-aada-b8ebd7d919c0" />
 
 
 
@@ -48,18 +48,13 @@ LT-Spice
 
 
 ### HIGHPASS FILTER:
-![HIGH PASS FILTER LHS](https://github.com/user-attachments/assets/4d4a30b6-3e76-4669-9ec0-365dd890844a)
+<img width="984" height="312" alt="Screenshot 2025-12-04 231923" src="https://github.com/user-attachments/assets/a64bf7f0-5928-4a69-8d39-c1340b4767ab" />
 
 
 ### BANDPASS FILTER:
-![BAND PASS FILTER LHS](https://github.com/user-attachments/assets/8898a3c7-0ef8-4604-afc8-0776ee1c25be)
+<img width="1231" height="401" alt="Screenshot 2025-12-04 232050" src="https://github.com/user-attachments/assets/fb1d5db2-ea4b-4631-aaef-7ae840c4ac87" />
 
 
 ## RESULT:
-![Filter RHS 1](https://github.com/user-attachments/assets/2064e7da-9dde-4ce8-bceb-c277a20e6724)
-
-![Filters RHS 2](https://github.com/user-attachments/assets/708e28d3-3542-4434-89bc-89fc4c0ea868)
-
-
 Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
 
