@@ -23,10 +23,11 @@ an inverting amplifier and it is given as
 ## CIRCUIT DIAGRAM: 
 <img width="683" height="599" alt="Screenshot 2025-12-04 202029" src="https://github.com/user-attachments/assets/78650292-89b9-47c4-9843-ad5263a704f3" />
 
-<img width="480" height="373" alt="Screenshot 2025-12-04 202315" src="https://github.com/user-attachments/assets/2c652edf-f15a-4fff-aa06-955ed89446a0" />
 
 
 ## MODEL GRAPH:
+
+<img width="480" height="373" alt="Screenshot 2025-12-04 202315" src="https://github.com/user-attachments/assets/2c652edf-f15a-4fff-aa06-955ed89446a0" />
 
 ## PROCEDURE:  
 ## Differential amplifier 
