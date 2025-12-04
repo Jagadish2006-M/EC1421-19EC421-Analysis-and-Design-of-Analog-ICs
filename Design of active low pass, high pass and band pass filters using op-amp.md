@@ -97,19 +97,42 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+<img width="706" height="706" alt="Screenshot 2025-12-04 224648" src="https://github.com/user-attachments/assets/efc64dcc-8b79-4e67-8a2f-c8e713fd9175" />
+
 ## HIGH-PASS
+<img width="584" height="649" alt="Screenshot 2025-12-04 224711" src="https://github.com/user-attachments/assets/76c0bc55-beb2-4d10-8eb7-01384d024175" />
+
 ## BAND-PASS
+<img width="680" height="880" alt="Screenshot 2025-12-04 224744" src="https://github.com/user-attachments/assets/33db69de-36a5-4f10-b69c-4b2b1bea91de" />
+
 ## CALCULATIONS:
 ## LOW_PASS
+<img width="705" height="347" alt="Screenshot 2025-12-04 224932" src="https://github.com/user-attachments/assets/47940b67-fe8a-4365-99b2-bacbf7d93cbb" />
+<img width="724" height="306" alt="Screenshot 2025-12-04 224951" src="https://github.com/user-attachments/assets/ff38497a-3673-438e-85af-0dff93fecea7" />
+
+
 ## HIGH-PASS
+<img width="705" height="347" alt="Screenshot 2025-12-04 224932" src="https://github.com/user-attachments/assets/21217de5-c808-4050-b357-955c563e5136" />
+<img width="724" height="306" alt="Screenshot 2025-12-04 224951" src="https://github.com/user-attachments/assets/0c0ef76a-196c-4977-84c2-c53ca6245b18" />
+
+
 ## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+
+<img width="518" height="631" alt="Screenshot 2025-12-04 225014" src="https://github.com/user-attachments/assets/43266252-732e-4d62-ad48-e1235c73d2c6" />
+
 ## GRAPH:
 ## LOW_PASS
+
+<img width="1025" height="785" alt="Screenshot 2025-12-04 225255" src="https://github.com/user-attachments/assets/390db646-e9f8-40ec-b0e3-26feeb77d350" />
+
 ## HIGH-PASS
+
+<img width="989" height="795" alt="Screenshot 2025-12-04 225228" src="https://github.com/user-attachments/assets/b33b6bd9-85b8-414b-9124-73515247e0b2" />
+
 ## BAND-PASS
+
+<img width="1020" height="789" alt="Screenshot 2025-12-04 225150" src="https://github.com/user-attachments/assets/d44425db-f02d-45eb-ad76-a33110ebc512" />
+
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 
