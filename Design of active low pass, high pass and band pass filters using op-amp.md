@@ -36,13 +36,25 @@ band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS
+<img width="687" height="481" alt="Screenshot 2025-12-04 223919" src="https://github.com/user-attachments/assets/f2256caf-b7b7-4791-8208-cca9b6e01ec4" />
+
 ## HIGH-PASS
+<img width="708" height="532" alt="Screenshot 2025-12-04 223946" src="https://github.com/user-attachments/assets/7aad646d-9cad-430b-afb0-e7a920491875" />
+
 ## BAND-PASS
+<img width="690" height="578" alt="Screenshot 2025-12-04 224021" src="https://github.com/user-attachments/assets/302f14eb-81fd-4793-a9a8-4380157f4218" />
+
 
 ## MODEL GRAPH:
 ## LOW_PASS
+<img width="690" height="565" alt="Screenshot 2025-12-04 224316" src="https://github.com/user-attachments/assets/9cf6ba49-6854-424f-88ef-206198547fc5" />
+
 ## HIGH-PASS
+<img width="600" height="532" alt="Screenshot 2025-12-04 224348" src="https://github.com/user-attachments/assets/0ebddfad-a05c-406b-8b6c-5d3513a697a9" />
+
 ## BAND-PASS
+<img width="706" height="636" alt="Screenshot 2025-12-04 224413" src="https://github.com/user-attachments/assets/ebe439ea-1865-46f5-83d9-822437c5bbc9" />
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
