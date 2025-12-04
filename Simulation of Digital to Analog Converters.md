@@ -12,7 +12,7 @@ LT-Spice
 
 2. New schematic window open.
 
-3. Pick and paste the required component from the library and draw the circuit diagram .
+3. Pick and paste the required component from the library and draw the circuit diagram . 
 
 4. Complete the connection.
 
